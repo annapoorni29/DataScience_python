@@ -9,3 +9,4 @@ data = {"Subjects":["Maths", "Science", "English"],
 
 csv_df = pd.read_csv('sample.csv', encoding= 'ISO-8859-1')
 print(csv_df)
+print()
